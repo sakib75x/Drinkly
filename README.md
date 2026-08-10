@@ -11,9 +11,8 @@ fill up, and let gentle notifications remind you to stay hydrated.
 
 ---
 <p align="center">
-  <img src="app/src/main/res/drawable/drinkyimg.png" alt="App Screenshot" width="300" />
+  <img src="app/src/main/res/drawable/drinkyimg.png" alt="App Screenshot" width="200" />
 </p>
-
 ## Features
 
 - **Progress ring** — a big visual circle that fills up as you drink
