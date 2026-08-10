@@ -10,6 +10,7 @@ fill up, and let gentle notifications remind you to stay hydrated.
 > unzipping the project to installing your own APK, step by step.
 
 ---
+![App Screenshot](app/src/main/res/drawable/drinkyimg.png)
 
 ## Features
 
