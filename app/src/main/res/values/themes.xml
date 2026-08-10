@@ -1,0 +1,17 @@
+<resources>
+
+    <!-- Splash theme. The splash screen shows while the app starts, then
+         Android automatically switches to Theme.Drinkly.App. -->
+    <style name="Theme.Drinkly" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">#006A6A</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_drop</item>
+        <item name="postSplashScreenTheme">@style/Theme.Drinkly.App</item>
+    </style>
+
+    <!-- The actual app theme used by Compose. -->
+    <style name="Theme.Drinkly.App" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+    </style>
+
+</resources>

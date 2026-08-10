@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Drinkly</string>
+    <string name="tagline">Stay hydrated, feel amazing</string>
+
+    <string name="water_drop">Water drop</string>
+    <string name="of_goal">of %1$d glasses</string>
+    <string name="add_glass">Add glass</string>
+    <string name="remove_glass">Remove</string>
+    <string name="reset_today">Reset today\'s count</string>
+
+    <string name="daily_goal">Daily goal</string>
+    <string name="goal_glasses">%1$d glasses</string>
+    <string name="goal_hint">Drag the slider to set a goal between 1 and 16 glasses.</string>
+
+    <string name="reminders_title">Water reminders</string>
+    <string name="reminders_on">Every few hours while you are awake</string>
+    <string name="reminders_off">Reminders are turned off</string>
+
+    <string name="msg_goal_reached">Goal reached — you are fully hydrated! 🎉</string>
+    <string name="msg_almost_there">Almost there, keep going! 💧</string>
+    <string name="msg_halfway">Halfway there — great progress!</string>
+    <string name="msg_good_start">Good start, keep sipping!</string>
+    <string name="msg_every_glass">Nice, every glass counts!</string>
+    <string name="msg_first_glass">Time for your first glass! 💧</string>
+
+    <string name="notif_title">Time to drink water</string>
+    <string name="notif_message_remaining">You still have %1$d glasses to go. Drink up!</string>
+    <string name="notif_message_done">Great job! You reached your daily goal.</string>
+</resources>
